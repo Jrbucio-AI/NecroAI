@@ -1,0 +1,15 @@
+# Study Hub Requirements
+# Install with: pip install -r requirements.txt
+
+# GUI Framework
+customtkinter>=5.0.0
+
+# AI and API
+requests>=2.28.0
+
+# Optional: Text-to-Speech
+pyttsx3>=2.90
+
+# Optional: Speech Recognition
+pyaudio>=0.2.11
+vosk>=0.3.45
